@@ -1,29 +1,43 @@
-# vue-course
+# 📝 Todo List App - Vue.js + Vite
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple and responsive Todo List application built using **Vue.js** and **Vite**. This project helped me understand and implement Vue’s reactive data binding, computed properties, and component-based architecture.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🚀 Features
 
-## Customize configuration
+- ✅ Add and delete tasks  
+- 📝 Mark tasks as completed  
+- ⚡ Real-time UI updates using Vue reactivity  
+- 🎯 Clean and minimal design  
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## 🛠️ Tech Stack
 
-```sh
+- **Frontend:** Vue.js  
+- **Build Tool:** Vite  
+- **Styling:** CSS  
+
+---
+
+## 📸 Screenshots
+
+> *(Add screenshots here if you have any)*
+
+---
+
+## 📂 Project Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/RiyaRoy05/TodoList-Vue.git
+
+# Navigate into the project directory
+cd TodoList-Vue
+
+# Install dependencies
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Start the development server
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
