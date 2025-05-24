@@ -23,9 +23,7 @@ A simple and responsive Todo List application built using **Vue.js** and **Vite*
 
 ## 📸 Screenshots
 
-> *(Add screenshots here if you have any)*
-
----
+"C:\Users\riyar\OneDrive\Pictures\Screenshots\Screenshot 2025-05-15 195504.png"
 
 ## 📂 Project Setup
 
